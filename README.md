@@ -1,6 +1,6 @@
 # 🚀 DekNek TaskFlow – Full Stack Task Manager
 
-🔗 **Live App:** https://your-vercel-link.vercel.app  
+🔗 **Live App:** https://deknek-taskflow.vercel.app/  
 🔗 **Backend API:** https://deknek-todo.onrender.com  
 📂 **GitHub Repo:** https://github.com/SaiAnoop/deknek-todo  
 
